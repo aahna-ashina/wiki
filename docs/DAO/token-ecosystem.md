@@ -13,7 +13,7 @@ $NATION serves as the entry point into the Nation3 ecosystem, unlocking access t
 - liquidity rewards and governance mining
 
 **Token Flow Chart
-**![token flow chart](/img/Token_flow_chart.png "")
+**![token flow chart](../../static/img/Token_flow_chart.png "")
 
 ## $NATION
 $NATION is required in order to mint passport NFTs and become a citizen of Nation3. This ensures that citizens have long-term economic alignment.
