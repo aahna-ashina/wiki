@@ -22,6 +22,8 @@ slug: /resources
 
 * **电报** [https://t.me/nation3\_official](https://t.me/nation3_official "https://t.me/nation3_official")
 
+* **Telegram:** [https://t.me/nation3_official](https://t.me/nation3_official)
+
 * **Snapshot:** [https://snapshot.org/#/nation3.eth](https://snapshot.org/#/nation3.eth "https://snapshot.org/#/nation3.eth")
 
 * **Aragon DAO:** [https://client.aragon.org/#/nation3/](https://client.aragon.org/#/nation3/ "https://client.aragon.org/#/nation3/")
